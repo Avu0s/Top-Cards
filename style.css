@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: sans-serif;
+  }
+  body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+  header{
+    padding: 1rem 0;
+  }
+  nav{
+    padding: .75rem 1rem;
+    width: fit-content;
+    margin: 0 auto;
+    background: #222;
+    color: #fff;
+    border-radius:.25rem ;
+    cursor: pointer;
+  }
+  h1{
+    font-size: 2rem;
+  }
+  h1:hover{
+    color: transparent;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(to left, rgb(252, 120, 120), rgb(186, 91, 255), rgb(27, 164, 255), rgb(31, 228, 106), rgb(255, 253, 112), rgb(255, 154, 71), rgb(255, 80, 80));
+  }
