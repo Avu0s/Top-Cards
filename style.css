@@ -157,6 +157,7 @@ p {
 /** End of card 7 **/
 
 .card-eight > .col-flex {
-  padding: 0 1.5rem;
+  width: 100%;
+  padding: 1rem;
 }
 /** End of card 8 **/
