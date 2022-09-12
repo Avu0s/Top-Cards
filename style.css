@@ -107,7 +107,6 @@ p {
 .card-two,
 .card-sev {
   justify-content: space-around;
-  max-width: 18rem;
   padding: 1.5rem 1rem;
   gap: 2rem;
 }
