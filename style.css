@@ -14,10 +14,9 @@ body {
   padding-bottom: 2rem;
 }
 header {
-  padding: 1rem 0;
+  padding: 2.5rem 0 1.5rem 0;
 }
 nav {
-  padding: 1rem 0;
   width: fit-content;
   margin: 0 auto;
   color: #fff;
@@ -30,8 +29,6 @@ h1 {
   -webkit-background-clip: text;
   background-image: linear-gradient(
     to right,
-    rgb(252, 120, 120),
-    rgb(186, 91, 255),
     rgb(27, 164, 255),
     rgb(31, 228, 106),
     rgb(255, 253, 112),
