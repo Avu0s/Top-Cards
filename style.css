@@ -113,6 +113,7 @@ p {
 }
 .profile-two {
   display: flex;
+  align-items: center;
   gap: 0.5rem;
 }
 /** End of card 2 **/
